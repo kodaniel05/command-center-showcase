@@ -45,51 +45,21 @@ Command Center was built to make that workflow visible, repeatable, and easier t
 
 ## Screenshots
 
-> Add polished, non-sensitive screenshots to `images/screenshots/`. Use demo data or blurred/redacted content where needed.
 
 ![Dashboard Home](images/screenshots/dashboard-home.png)
 
-Caption: Add a full dashboard overview showing project cards, system status, and recent activity with safe demo projects.
-
-![Project Card Runtime Controls](images/screenshots/project-card-runtime-controls.png)
-
-Caption: Show a single project card with launch controls, status badge, preview image, and action buttons.
-
-![Snapshot Management](images/screenshots/snapshot-management.png)
-
-Caption: Show the capture/upload screenshot workflow using a non-private project preview.
-
 ![Activity Feed](images/screenshots/activity-feed.png)
-
-Caption: Show recent operational events such as starts, restarts, health checks, and snapshot updates.
 
 ![System Overview](images/screenshots/system-overview.png)
 
-Caption: Show memory, CPU, active project count, and machine uptime cards.
-
 ![Add Project Modal](images/screenshots/add-project-modal.png)
-
-Caption: Show the project registration form with safe sample values and no private filesystem paths.
 
 ![Project Logs](images/screenshots/project-logs.png)
 
-Caption: Show launch logs or validation feedback with private paths and environment values redacted.
-
-![Project Notes](images/screenshots/project-notes.png)
-
-Caption: Show lightweight project notes using safe placeholder content only.
-
 ![Idea Blueprint Studio](images/screenshots/idea-blueprint-studio.png)
-
-Caption: Show the idea intake form next to generated architecture and feature recommendations.
-
-![Blueprint Output](images/screenshots/blueprint-output.png)
-
-Caption: Show a generated technical blueprint with sample app data only.
 
 ![Settings View](images/screenshots/settings-view.png)
 
-Caption: Show configuration or preferences using non-sensitive placeholder values.
 
 ## Feature Walkthrough
 
