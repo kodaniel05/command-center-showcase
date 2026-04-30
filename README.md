@@ -1,5 +1,7 @@
 # Command Center Showcase
 
+![Dashboard Home](images/screenshots/dashboard-home.png)
+
 > A private local-operations dashboard that centralizes project launch controls, runtime visibility, screenshots, notes, activity history, and technical blueprint planning.
 
 Command Center is a personal developer operations hub built to manage a growing collection of local projects from one focused interface. The public repository is a showcase version only: it documents the product, architecture, and engineering decisions without exposing the private application source code or reusable implementation details.
@@ -44,9 +46,6 @@ Command Center was built to make that workflow visible, repeatable, and easier t
 - Local-first persistence appropriate for a private developer tool.
 
 ## Screenshots
-
-
-![Dashboard Home](images/screenshots/dashboard-home.png)
 
 ![Activity Feed](images/screenshots/activity-feed.png)
 
